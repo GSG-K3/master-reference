@@ -18,6 +18,8 @@
 
 -- LUNCHTIME 😋 --
 
+- 14.00 - 16.00 <br /> [Afternoon workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, callbacks, working with JSON, chaining API requests
+
 - 16:00 - 18:00 <br>
   - Business Development / Community Engagement
   - Tech for Better Discovery workshop: [slides here](https://facresources.com/slides/tfb-discovery-workshop.html#/)
