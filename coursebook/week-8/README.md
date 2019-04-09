@@ -60,6 +60,8 @@ Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-draw
 
 ### Day 4
 
+10.00 - 10.20 - (Tech for Better Discovery workshop reflection)
+
 10:00-13:00 - Group Project
 
 --LUNCH--

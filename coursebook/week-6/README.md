@@ -56,7 +56,9 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 ### Day 4
 
-Continue work on projects
+- 10.00 - 10.20 <br /> (Tech for Better Discovery workshop reflection)
+
+- 10.00 - 18.00 <br /> Projects
 
 ### Day 5
 

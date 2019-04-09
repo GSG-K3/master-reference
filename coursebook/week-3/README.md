@@ -51,6 +51,8 @@
 
 ### Day 4
 
+- 10.00 - 10.20 <br /> (Tech for Better Discovery workshop reflection)
+
 - 10.00 - 13.00 <br /> Projects
 
 -- LUNCHTIME 😋 --

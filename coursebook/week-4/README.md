@@ -62,6 +62,8 @@
 
 ### Day 4
 
+- 10.00 - 10.20 — (Tech for Better Discovery workshop reflection)
+
 - 10:00 - 18:00
   -- Projects
 
