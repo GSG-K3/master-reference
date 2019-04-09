@@ -20,7 +20,9 @@
 
 - 14:00 - 16:00 - Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies)
 
-- 16:00 - 18:00 - Business development
+- 16:00 - 18:00 <br>
+  - Business Development / Community Engagement
+  - Tech for Better Discovery workshop: [slides here](https://facresources.com/slides/tfb-discovery-workshop.html#/)
 
 ### Day 2
 

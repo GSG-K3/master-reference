@@ -26,7 +26,8 @@
   Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
 
 - 16:00 - 18:00 <br>
-  Business development / community engagement
+  - Business Development / Community Engagement
+  - Tech for Better Discovery workshop run-through: [slides here](https://facresources.com/slides/tfb-discovery-workshop.html#/)
 
 ### Day 2
 

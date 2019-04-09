@@ -21,7 +21,9 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 2pm - 4.00pm: [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop).
 
-4.00pm - 6pm: biz dev and community outreach
+4pm - 6pm: <br>
+  - Business Development / Community Engagement
+  - Tech for Better Discovery workshop: [slides here](https://facresources.com/slides/tfb-discovery-workshop.html#/)
 
 ### Day 2
 

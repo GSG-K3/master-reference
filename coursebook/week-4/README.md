@@ -17,8 +17,10 @@
 
 - 14:00 - 16:00
   -- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day 1 of 2)
-- 16:00 - 18:00
-  -- Business development
+
+- 16:00 - 18:00 <br>
+    - Business Development / Community Engagement
+    - Tech for Better Discovery workshop: [slides here](https://facresources.com/slides/tfb-discovery-workshop.html#/)
 
 ### Day 2
 

@@ -21,7 +21,9 @@
 
 14:00-16:00 - Workshop 2 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
 
-16:00-18:00 - Business Development / Community Engagement
+16:00 - 18:00 <br>
+  - Business Development / Community Engagement
+  - Tech for Better Discovery workshop: [slides here](https://facresources.com/slides/tfb-discovery-workshop.html#/)
 
 ### Day 2
 
