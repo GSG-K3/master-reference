@@ -11,25 +11,25 @@
 
 ### Day 1
 
-10:00 - 11:00 — whiteboard walkthrough with introduction to the topic of relational databases and SQL
+10:00 - 11:00 — Whiteboard walkthrough with introduction to the topic of relational databases and SQL
 
 11:00 - 13:00
 
 - [PostgreSQL Setup](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md): Installation instructions for PostgreSQL. Those who finish early should help others!
 
-- Then go to [SQL Commands Introduction Workshop](https://github.com/foundersandcoders/sql-commands-intro/) and work through in pairs if time remaining (help each other first)!
+- Then work in pairs on [SQL Commands Introduction Workshop](https://github.com/foundersandcoders/sql-commands-intro/).
 
 13:00 - 14:00 — Lunchtime 😋
 
-14:00 - 16.00 — [PostgreSQL Workshop](https://github.com/foundersandcoders/postgres-workshop): More SQL commands and using PostgreSQL
+14:00 - 16.00 — [psql Workshop](https://github.com/foundersandcoders/postgres-workshop): More SQL commands and using PostgreSQL
 
 16:00 - 18:00 — Tech for Better/biz dev and community outreach
 
 ### Day 2
 
-10:00 - 11:30 — [pg module codealong](https://github.com/foundersandcoders/pg-walkthrough)
+10:00 - 11:30 — [pg Module Codealong](https://github.com/foundersandcoders/pg-walkthrough)
 
-11:30 - 13:00 — [pg workshop](https://github.com/foundersandcoders/pg-workshop): Workshop on making a small node app with a database connection
+11:30 - 13:00 — [pg Workshop](https://github.com/foundersandcoders/pg-workshop): Workshop on making a small node app with a database connection
 
 13:00 - 14:00 — Lunchtime 😋
 
