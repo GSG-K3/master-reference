@@ -21,7 +21,7 @@
 
 13:00 - 14:00 — Lunchtime 😋
 
-14:00 - 16.00 — [psql Workshop](https://github.com/foundersandcoders/postgres-workshop): More SQL commands and using PostgreSQL
+14:00 - 16.00 — [PostgreSQL Workshop](https://github.com/foundersandcoders/postgres-workshop): More SQL commands and using psql
 
 16:00 - 18:00 — Tech for Better/biz dev and community outreach
 
