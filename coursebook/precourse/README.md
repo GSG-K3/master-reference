@@ -123,6 +123,7 @@ For Windows Users:
 - [Dual boot Linux](https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/) 
 - This [Lifewire article](https://www.lifewire.com/beginners-guide-to-linux-4090233) is informative and accessible, and [this PCWorld article](https://www.pcworld.com/article/2918397/how-to-get-started-with-linux-a-beginners-guide.html) has more info on installing Linux.
 - Dual boot [Windows 10 + Linux Mint](https://itsfoss.com/guide-install-linux-mint-16-dual-boot-windows/), and [Windows 10 + Ubuntu](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
+- Some extra info on [APT](https://itsfoss.com/apt-command-guide/), the command-line tool for the Debian packaging system.
 - Finally please do not hesistate to come to a meetup or contact us on gitter if you are having trouble, we can help!
 
 Chromebook Users:
