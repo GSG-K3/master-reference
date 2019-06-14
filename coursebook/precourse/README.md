@@ -115,8 +115,9 @@ For Linux Users:
 | [Antergos](https://antergos.com/) | [Arch](https://www.archlinux.org/) | [pacman](https://wiki.archlinux.org/index.php/pacman) | [packer](https://dominicm.com/install-packer-on-arch-linux/) or [yaourt](https://archlinux.fr/yaourt-en) |
 
 For Windows Users:
-- The distros we'd recommend installing are **Ubuntu** or **Linux Mint**. 
-- There are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + distro (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful:
+
+- For the course you'll need to install a Linux operating system on your machine and dual boot - students in the past who have tried to use Windows always encounter big setbacks with installation problems and general incompatibility issues.
+- It's not as scary as it sounds! There are a lot of articles online to help you. Due to a lot of different OS configurations you may be best off searching google for your specific OS + distro (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful:
 
 - [How to install Ubuntu 18.04 alongside Windows 10](https://askubuntu.com/questions/1031993/how-to-install-ubuntu-18-04-alongside-windows-10) - useful at time of posting (mid 2018)
 - [Dual boot Linux](https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/) 
