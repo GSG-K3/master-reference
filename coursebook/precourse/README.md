@@ -115,10 +115,13 @@ For Linux Users:
 | [Antergos](https://antergos.com/) | [Arch](https://www.archlinux.org/) | [pacman](https://wiki.archlinux.org/index.php/pacman) | [packer](https://dominicm.com/install-packer-on-arch-linux/) or [yaourt](https://archlinux.fr/yaourt-en) |
 
 For Windows Users:
-- There are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + Ubuntu (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful
+- The distros we'd recommend installing are **Ubuntu** or **Linux Mint**. 
+- There are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + distro (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful:
 
 - [How to install Ubuntu 18.04 alongside Windows 10](https://askubuntu.com/questions/1031993/how-to-install-ubuntu-18-04-alongside-windows-10) - useful at time of posting (mid 2018)
 - [Dual boot Linux](https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/) 
+- This [Lifewire article](https://www.lifewire.com/beginners-guide-to-linux-4090233) is informative and accessible, and [this PCWorld article](https://www.pcworld.com/article/2918397/how-to-get-started-with-linux-a-beginners-guide.html) has more info on installing Linux.
+- Dual boot [Windows 10 + Linux Mint](https://itsfoss.com/guide-install-linux-mint-16-dual-boot-windows/), and [Windows 10 + Ubuntu](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
 - Finally please do not hesistate to come to a meetup or contact us on gitter if you are having trouble, we can help!
 
 Chromebook Users:
