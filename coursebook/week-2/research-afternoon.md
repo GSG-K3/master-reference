@@ -21,10 +21,8 @@
 - What are async functions and blocking code?
 - What is a callback function? Give an example of a callback function and explain what happens when it is executed
 
-### DOM manipulation
-
-- How can you use JavaScript to create an HTML element and then add it to your webpage? How would you replace an existing element with it?
-- How would you add a `<li>` element to the start of a `<ul>`?
-- What is a JavaScript Event? What does event.preventDefault() do and why might you use it?
-- What is a NodeList? How is it different from an Array?
-- What are the security concerns around `Element.innerHTML` and what could you use instead?
+### NPM 
+- what is a npm script?
+- what should you take into consideration if you are deciding whether or not to install a package?
+- what is the difference between installing a package globally and locally? when should you use each one?
+- how do you know when to install a package as a dependency or a dev dependency?
