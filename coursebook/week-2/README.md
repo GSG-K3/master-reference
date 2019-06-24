@@ -36,7 +36,7 @@
 - 10:00 - 12:00 <br>
   [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
-— LUNCH —
+— BREAK —
 
 - 13:00 - 13:30
   [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
@@ -55,7 +55,7 @@
 - 10:00 - 12:00 <br>
   Projects
 
-— LUNCH —
+— BREAK —
 
 - 13:00 - 17:00<br>
   Projects
@@ -65,7 +65,7 @@
 - 09:00 - 12:00 <br>
   Projects
 
-— LUNCH —
+— BREAK —
 
 - 13:00 - 17:00 <br>
   Projects
