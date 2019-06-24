@@ -26,18 +26,44 @@
 
 ## Day 2
 
-- Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge): 1hr
-- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
-- [Research and Presentation Guidance](../general/research-presentation-guidance.md)
+- 09:00 - 10:00 — Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge)
+- 10:00 - 12:00 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
+
+— BREAK —
+
+- 13:00 - 13:30 — Introduce [Project](./project.md)
+- 13:30 - 13:45 — [Research and Presentation Guidance](../general/research-presentation-guidance.md)
+- 13:45 - 14:00 — Introduce [Research topics](./research-afternoon.md)
+- 14:00 - 16:00 — Research / TBC
+- 16:00 - 17:00 — Research presentations
 
 
 ## Day 3
 
-- [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge): 1hr
+- 09:00 - 10:00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge)
+- 10:00 - 12:00 — Projects
+
+— BREAK —
+
+- 13:00 - 17:00 — Projects
+
+## Day 4
+
+- 09:00 - 12:00 — Projects
+
+— BREAK —
+
+- 13:00 - 17:00 — Projects
 
 ## Day 5
-- [How to code review](./codereviewintro.md)
-- [Intro to project presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
-- [Intro to cohort Stop Go Continue](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
-- [Into to team retrospectives](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#team-retrospectives)
 
+- 09:00 - 09:15 - [How to code review](./codereviewintro.md)
+- 09:15 - 10:00 — Code review (1 alumnus per project, 1 team reviews another team)
+- 10.00 - 11:00 — Respond to issues and [plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
+- 11:00 - 12:00 — Projects Presentation
+
+— BREAK —
+
+- 13:00-15:00 — [Cohort Stop Go Continue (retrospective) + Team retrospective](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
+
+- 15:00-17:00 — External Workshop
