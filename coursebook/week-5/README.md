@@ -1,6 +1,6 @@
-# Node Week 2
+# Express and Handlebars week
 
-## Contents
+## Menu
 
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
@@ -8,20 +8,20 @@
 - [Resources](./resources)
 
 ## Schedule
+
 - [Default schedule](../schedules/default.md)
 
 ### Day 1
 
-- [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server) 2hrs 30mins
-
-- [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop) 2hrs
+- [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express): 15mins
+- Workshop 1 - [Express-Workshop](https://github.com/foundersandcoders/express-workshop): 2hrs 30mins
+- Workshop 2 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop): 2hrs
 
 ### Day 2
 
-- [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/): 3hrs
+- Morning Challenge - [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
+- Workshop 3 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop): 2hrs
 
 ### Day 3
 
-- [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop): 1hr
-
-- [Introduction to linters](./linter.md): 15mins
+- [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge): 1hr
