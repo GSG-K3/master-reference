@@ -12,6 +12,8 @@
 - 09:00 - 12:00
   -- Intro to servers and Node.js
   & [Node Intro Workshop](https://github.com/foundersandcoders/Node-Intro-Workshop)
+  
+  — BREAK —
 
 - 13:00 - 15:00
   -- [Node Girls workshop](https://github.com/ali-7/refactor-node-girls-ws) (Day 1 of 2)
@@ -26,7 +28,7 @@
 - 10:00 - 12:00
   -- [Node Girls workshop](https://github.com/ali-7/refactor-node-girls-ws) (Day 2 of 2)
 
-— LUNCH —
+— BREAK —
 
 - 13:00 - 13:30
   -- [Introduce Project](./project.md)
