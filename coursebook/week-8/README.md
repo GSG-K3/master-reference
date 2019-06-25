@@ -7,23 +7,69 @@
 - [Project](./project.md)
 - [Resources](./resources)
 
-## Schedule
-- [Default schedule](../schedules/default.md)
-
 ### Day 1
 
-- Presentation on [password management](https://drive.google.com/file/d/0BxXF_LZcFnS5ODM0dElWYmtmMWc/view): 30mins
+- 09:00 - 09:15 - Introduction to [learning outcomes](./learning-outcomes.md)
 
-- Workshop on [password management](https://github.com/foundersandcoders/ws-password-management): 2hrs
+- 09:15 - 10:00 - [Presentation](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p1) on password management 
+  
+- 10:00 - 12:00 - Workshop on [password management](https://github.com/foundersandcoders/ws-password-management)
 
-- Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies): 2hrs
+— BREAK —
+
+- 13:00 - 15:00 -- Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies)
+
+- 15:00 - 17:00
+  -- Q&A/Workshop
 
 ### Day 2
 
-- Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
+- 09:00 - 12:00 -- Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
 
-- Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session): 2hrs
+— BREAK —
+
+- 13:00 - 13:30
+  -- [Introduce Project](./project.md)
+
+- 13:30 - 13:45
+  -- Intro to research topics for research afternoon
+
+- 13:45 - 16:00
+  -- [Research Afternoon](./research-afternoon.md)
+
+- 16:00 - 17:00
+  -- Review and Present research topics
 
 ### Day 3
 
-- Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this): 1hr
+- 09:00 - 10:00 -- Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+
+- 10:00 - 12:00 <br>
+  Projects
+
+— BREAK —
+
+- 13:00 - 17:00<br>
+  Projects
+
+### Day 4
+
+- 09:00 - 12:00 <br>
+  Projects
+
+— BREAK —
+
+- 13:00 - 17:00 <br>
+  Projects
+
+### Day 5
+
+- 09:00 - 10:00 — Code review 
+- 10.00 - 11:00 — Respond to issues and plan presentations
+- 11:00 - 12:00 — Projects Presentation
+
+— BREAK —
+
+- 13:00 - 15:00 — Cohort Stop Go Continue (retrospective) + Team retrospective
+
+- 15:00 - 17:00 — External Workshop
