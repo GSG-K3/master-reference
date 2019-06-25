@@ -1,6 +1,6 @@
-# Express and Handlebars week
+# Authentication Week
 
-## Menu
+## Contents
 
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
@@ -8,20 +8,22 @@
 - [Resources](./resources)
 
 ## Schedule
-
 - [Default schedule](../schedules/default.md)
 
 ### Day 1
 
-- [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express): 15mins
-- Workshop 1 - [Express-Workshop](https://github.com/foundersandcoders/express-workshop): 2hrs 30mins
-- Workshop 2 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop): 2hrs
+- Presentation on [password management](https://drive.google.com/file/d/0BxXF_LZcFnS5ODM0dElWYmtmMWc/view): 30mins
+
+- Workshop on [password management](https://github.com/foundersandcoders/ws-password-management): 2hrs
+
+- Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies): 2hrs
 
 ### Day 2
 
-- Morning Challenge - [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
-- Workshop 3 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop): 2hrs
+- Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
+
+- Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session): 2hrs
 
 ### Day 3
 
-- [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge): 1hr
+- Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this): 1hr

@@ -1,25 +1,23 @@
-## Promises and Fetch
-- What is a Promise?
-- What is fetch and how do you use it?
-- What advantages do promises provide over callbacks, what are the downsides
-  of using promises?
-- What are the downsides to using Fetch? i.e. what does fetch not do for you?
+## Research topics
 
-## Express Middlewares
-- What are express middlewares?
-- What functionality do they provide?
-- What are some examples of useful express middleware and 
-how do you use them ([several useful examples](https://blog.jscrambler.com/setting-up-5-useful-middlewares-for-an-express-api/))
+### HTTP vs HTTPS
++ How does HTTPS work? What are TLS/SSL certificates?
++ Why is this important to implement in your projects?
++ Demo how to generate certificates and use them in a node project  
 
-## Session-management in Express
-- What are sessions?
-- What are the different ways of managing sessions in express?
-- Create a minimal example of how to set up a session (FYI: pseudo code is
-  fine)
+### Stateless vs stateful authentication
++ What is session based authentication (stateful) vs token based authentication (stateless)?
++ Draw flow diagrams to show the steps involved in each process
++ What are the advantages and disadvantages of each?
 
-## Templating and Serverside rendering
-- What is server-side rendering?
-- What are the pros and cons of serverside rendering vs clientside
-- What problems do templating languages solve
-- what are some examples of functionality that templating languages provide
-  e.g. conditional logic etc.
+### Web storage
++ What are local storage and session storage and what is the difference between the two?
++ Why would you use cookies vs local/session storage?
++ Demo a simple usage of localStorage and sessionStorage
+
+### Attacks
++ What are the following types of attack?
+  + Man In The Middle (MITM)
+  + Cross Site Scripting (XSS)
+  + Cross Site Request Forgery (CSRF)
++ How can you defend against each of them?
