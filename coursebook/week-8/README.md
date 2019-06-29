@@ -42,7 +42,7 @@
 
 ### Day 3
 
-- 09:00 - 10:00 -- Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- 09:00 - 10:00 -- TDB
 
 - 10:00 - 12:00 <br>
   Projects
