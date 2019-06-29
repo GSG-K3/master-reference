@@ -26,7 +26,8 @@
 
 ### Day 2
 
-- 09:00 - 12:00 - [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
+- 09:00 - 11:00 - [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
+- 11:00 - 12:00 - [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
 
 — BREAK —
 
