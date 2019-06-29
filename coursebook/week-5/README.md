@@ -45,9 +45,9 @@
 
 ### Day 3
 
-- 09:00 - 10:00 <br /> Introduction To Promises - Fetch API - node-fetch
+- 09:00 - 10:30 <br /> Introduction To Promises - Fetch API - node-fetch - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 
-- 10:00 - 12:00 <br>
+- 10:30 - 12:00 <br>
   Projects
 
 — BREAK —
