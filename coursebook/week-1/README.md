@@ -12,7 +12,7 @@
 - 09:00 - 12:00  
   - Welcome talk
   - Name game
-  - Go through 16 week [schedule](https://github.com/foundersandcoders/master-reference/tree/master/coursebook)
+  - Go through 16 week [schedule](https://github.com/ca-g7/master-reference/tree/master/coursebook)
   - [Code of Conduct](https://github.com/foundersandcoders/gaza-programme/blob/master/professionalism-code-of-conduct.md)
   - [House rules](../general/house-rules.md)
   
