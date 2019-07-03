@@ -1,9 +1,11 @@
 ## Research topics
 
-### Unit vs integration testing
+### Unit vs integration testing vs end-to-end testing vs regression testing
 
 - What is a unit test?
 - What is an integration test?
+- what is an end to end test?
+- What is a regression testing?
 - When would you use each kind of test?
 
 ### Test coverage
@@ -13,18 +15,19 @@
 - What are Istanbul and nyc?
 - How would you use them to improve your testing?
 - Use Istanbul/nyc to calculate your code coverage for the TDD workshop.
+- Does 100% coverage mean you have tested everything correctly?
 
-### Asynchronous JavaScript
+### Testing methodologies
+- What are some popular testing frameworks?
+- How and why are they different?
+- What are some common testing methods - eg `test.equal` `test.Ok`
+- What is the difference between `equal` and `deepEqual`
+- Hints: QUnit, Jest, Tape  
 
-- What are first class functions, and higher order functions?
-- What is the call stack?
-- What are async functions and blocking code?
-- What is a callback function? Give an example of a callback function and explain what happens when it is executed
 
-### DOM manipulation
+### Web storage
+- What is local storage? 
+- What is session storage? 
+- what is the difference between the two?
 
-- How can you use JavaScript to create an HTML element and then add it to your webpage? How would you replace an existing element with it?
-- How would you add a `<li>` element to the start of a `<ul>`?
-- What is a JavaScript Event? What does event.preventDefault() do and why might you use it?
-- What is a NodeList? How is it different from an Array?
-- What are the security concerns around `Element.innerHTML` and what could you use instead?
+- Demo a simple usage of localStorage and sessionStorage
