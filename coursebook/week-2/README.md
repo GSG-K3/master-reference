@@ -42,7 +42,7 @@
   [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
 
 - 13:30 - 16:30 <br>
-  [Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
+  [Research](./research-afternoon.md)
 
 - 16:30 - 17:00 <br>
   [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
