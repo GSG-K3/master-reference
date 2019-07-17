@@ -8,7 +8,9 @@ Adding a back end doesn't necessarily make your software more complex. Some of t
 
 It's very important to understand how the server and client relate to each other, and the roles that they'll play in your application – the **Architecting** section explores some of those ideas. Node also comes with its own features and approaches that will be unfamiliar if you've only written client-side code before – the **Engineering** section examines a few of the key ones. 
 
-One of the best things about Node is the ease with which you can incorporate other developers' code into your own projects – the **Packaging** section looks into the tools you'll use to manage external dependencies. And finally, you can't just open your back-end code in a browser – you have to deploy it somewhere. The **Deploying** section looks at some of the places you might deploy your code, and some of the things you'll need to bear in mind if your code's going to run in different environments.
+The **Deploying** section looks at some of the places you might deploy your code, and some of the things you'll need to bear in mind if your code's going to run in different environments.
+
+
 
 
 ### Topic 1: Architecting
@@ -33,19 +35,15 @@ One of the best things about Node is the ease with which you can incorporate oth
 - *Working with URLs (the `url` and `querystring` modules)*: What is a `urlObject` and how is it structured? Why is it important to be able to turn JavaScript objects into querystrings and back again? Why is it a bad idea to build a query string manually from other strings (think about URL encoding and escape characters)?
 
 
-### Topic 3: Packaging
-
-- *Dependencies*: What is a dependency? Why might you want to use a dependency in your project, rather than writing the code from scratch? What have traditionally been some of the issues with managing dependencies?
-
-- *NPM*: What is a package manager? How does it help with dependencies? What is `package.json`, and what does `npm init` do? How do you use an installed package in your code?
-
-- *`npm install`*: What is the difference between installing a package globally, installing it as a dependency, or installing it as a development dependency? When would you use each? How would you do each in the command line? Why is it normally a bad idea to install a package globally?
-
-- *Package files*: Where does NPM install packages? Why is it important to make sure that installed packages aren't included in your repositories? How do you prevent Git from including these files in your repository? 
-
-
-### Topic 4: Deploying
+### Topic 3: Deploying
 
 - *Cloud platforms*: What is PaaS? Why is it useful to be able to deploy your code to a cloud platform, rather than running it locally? What services are there that can provide you with a platform for your code? [Heroku](http://www.heroku.com) is a good start, but try to find some others. If you have time, try to deploy a simple server to Heroku as a demo.
 
 - *Environment variables*: Why might some variables in your code need to change for different environments? Why is it a bad idea to include those variables in a public repository? What modules might you use to help manage environment variables? (Look at [env2](https://github.com/dwyl/env2) from our neighbours at DWYL.) If you can, write some sample code to show how it works.
+
+### Topic 4: Design Patterns
+
+- Define what a design pattern is in JavaScript
+- Compare and contrast creational, structural, and behavioral design patterns
+- Implement and examine real world use cases for multiple design patterns
+- What is the module design pattern
