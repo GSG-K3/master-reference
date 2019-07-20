@@ -27,7 +27,7 @@
 ### Day 2
 
 - 09:00 - 12:00 -- Handlebars:
-    - [Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
+    - [Presentation](https://docs.google.com/presentation/d/1TCXAYPoaACoBUb0jsEp0bRVujRjUXb9C6Y4cPat7T8Y)
     - [Templating](https://github.com/m4v15/templating/)
     - [Handlebars](https://github.com/m4v15/country-express)
 
