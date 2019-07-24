@@ -18,7 +18,7 @@ Like in week 5, the app should retrieve from an API, but this time, you should u
 
 4) There should be some form of user input on the front end with client side validation
 
-2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using the Request node module)
+2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using the `request` node module or `node-fetch`)
 
 3) Your server should contain a minimum of 2 routes, including one POST route
 
