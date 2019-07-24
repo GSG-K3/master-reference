@@ -21,7 +21,7 @@ You can build on this user story or create your own user stories as long as they
 ### Goals:
 1) Write your server using expressJS
 
-2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using the Request node module)
+2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using the `request` node module or `node-fetch` )
 
 3) Add the api data to your webpage using DOM manipulation on the Front End
 
@@ -31,22 +31,21 @@ You can build on this user story or create your own user stories as long as they
 
 5) Test your server routes by injecting fake HTTP requests using Supertest (including testing for 404's). _Note - you are not required to test any server route that makes an API call, as this will make the test impure (a test that depends on an external factor is not reliable)_
 
-6) Host your project on Heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
-
+6) Host your project on Heroku.
 7) Use module.exports and require to break a single large server file into smaller modules.
 
 8) Consider a good server file structure based on what we have discussed over the week.
 
-9) Employ continuous integration on your project with Travis or a similar tool. (If you decide to use Travis, we strongly recommend that you host this project in your own repo rather than in your cohort's FAC repository to avoid all builds getting queued together)
+9) Employ continuous integration on your project with Travis or a similar tool.
 
 10) Use CodeCov or a similar tool to report and track test coverage.
 
 11) Include Error Handling. For example:
   - if a user attempts to make a request to a non-existent route to your server (404 - as mentioned above), provide the user with a custom response.    
-  - if there is a [programmer error](https://github.com/foundersandcoders/error-handling-workshop#kinds-of-errors) on your server (e.g. a handler function does not act as intended), provide the user with a custom response (500 status code).
+  - if there is a programmer error on your server (e.g. a handler function does not act as intended), provide the user with a custom response (500 status code).
 
 
-13) Display continuous integration and code coverage badges on your project README. 
+12) Display continuous integration and code coverage badges on your project README. 
 
 ### Stretch goal 😊:
 
