@@ -4,13 +4,6 @@ Create a **server-side rendered** web app.
 
 Like in week 5, the app should retrieve from an API, but this time, you should use **handlebars** to render on the server, before sending files to the front end.
 
-
-### Example:
-
-#### User Stories:
-
-*TO DO*
-
 ### Goals:
 1) Write your server using expressJS & Handlebars
 
