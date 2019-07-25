@@ -20,7 +20,7 @@
 
 - 13:00-13:15 - [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
 
-- 13:15-16:00 - [Express-Workshop](https://github.com/foundersandcoders/express-workshop)
+- 13:15-16:00 - [Express-Workshop](https://github.com/ali-7/express-workshop)
 - 16:00 - 17:00
   -- Q&A/Workshop
 
