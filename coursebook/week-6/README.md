@@ -11,7 +11,7 @@
 ### Day 1
 
 - 09:00 - 11:00 
-  -- [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
+  -- [Creating and Testing Express Routes](https://github.com/ashatat/express-and-testing-workshop)
 
 - 11:00 - 12:00 
   -- [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
