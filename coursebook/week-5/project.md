@@ -21,9 +21,9 @@ You can build on this user story or create your own user stories as long as they
 ### Goals:
 1) Write your server using expressJS
 
-2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using the `request` node module or `node-fetch` )
+2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using the `request` node module)
 
-3) Add the api data to your webpage using DOM manipulation on the Front End
+3) Add the api data to your webpage using DOM manipulation on the Front End (try using `Fetch API` instead of `XMLHttpRequest`)
 
 3) Your server should contain a minimum of 2 routes
 
