@@ -11,7 +11,7 @@ Like in week 5, the app should retrieve from an API, but this time, you should u
 
 4) There should be some form of user input on the front end with client side validation
 
-2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using the `request` node module or `node-fetch`)
+2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using `node-fetch`)
 
 3) Your server should contain a minimum of 2 routes, including one POST route
 
@@ -19,7 +19,7 @@ Like in week 5, the app should retrieve from an API, but this time, you should u
 
 5) Test your server routes by injecting fake HTTP requests using Supertest (including testing for 404's). _Note - you are not required to test any server route that makes an API call, as this will make the test impure (a test that depends on an external factor is not reliable)_
 
-6) Host your project on Heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
+6) Host your project on Heroku.
 
 7) Use module.exports and require to break a single large server file into smaller modules.
 
