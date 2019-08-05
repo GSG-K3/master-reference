@@ -7,11 +7,12 @@ Some suggested project ideas are below. Feel free to modify according to your in
 
 ### Requirements
 
-- Simple web app with a node server and a database
+- Simple web app with a node server and a database using express, handlebars and postgreSql. 
 - Your database comes with a schema, which should be documented in your readme (along with any other architectural decisions)
-- Database hosted on Heroku, or locally
+- Database hosted on Heroku.
 - Build script for your database
 - Security concerns appropriately considered (you must protect against script injections!)
+- make both ```POST```and ```GET``` requests to your server
 - Content dynamic, but DOM manipulation kept to a minimum
 - Mobile-first design
 - Clear user journey (even if you take one of our suggested ideas, document the user journey in your readme)
@@ -61,11 +62,3 @@ As a member of Founders & Coders who likes going to talks or meetups...
 Suggested additional requirements / stretch goals:
 * Events can be assigned to different categories
 * I can browse past events and write a review
-
-
-### Getting started
-
-Make sure you have a plan, and break the project down into manageable parts. Here are some things to consider:
-* You will need to make the requests and update the DOM in response using client-side JavaScript.
-* As well as serving static HTML and JS files, your server will also need to provide endpoints that return DB query results as JSON. You can query your server from the client using the XMLHttpRequest method.
-* You'll need to be able to make both ```POST```and ```GET``` requests to your server.
