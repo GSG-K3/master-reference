@@ -39,7 +39,6 @@
 - 13:30 - 17:00 -- Computer Science Fundamentals with JavaScript
     - [Introduction to Big O Notation](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/introduction-to-big-o-notation)
     - [Introduction to Recursion](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/introduction-to-recursion)
-    - [Dynamic Programming](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/dynamic-programming)
 
 ### Day 3
 
