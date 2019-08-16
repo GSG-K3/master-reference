@@ -29,14 +29,14 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 ### Day 2
 
-- 09:00 - 10:30 -- [pg module code along](https://github.com/foundersandcoders/pg-walkthrough)
+- 09:00 - 10:30 -- [pg module code along](https://github.com/ali-7/pg-code-along)
 
-- 10:30 - 12:00 -- [workshop on making small node app with a database connection](https://github.com/foundersandcoders/pg-workshop)
+- 10:30 - 12:00 -- [workshop on making small node app with a database connection](https://github.com/ali-7/pg-workshop)
 
 
 — BREAK —
 
-- 13:00 - 14:00 -- [Database Testing](https://github.com/foundersandcoders/ws-database-testing/)
+- 13:00 - 14:00 -- [Database Testing]https://github.com/ali-7/db-testing-ws)
 
 - 14:00 - 14:30
   -- [Introduce Project](./project.md) + Intro to research topics for research afternoon
@@ -49,7 +49,7 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 ### Day 3
 
-- 09:00 - 10:00 -- [morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
+- 09:00 - 10:00 -- [db morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
 
 - 10:00 - 12:00 <br>
   Projects
