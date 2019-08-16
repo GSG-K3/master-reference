@@ -36,7 +36,7 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 — BREAK —
 
-- 13:00 - 14:00 -- [Database Testing]https://github.com/ali-7/db-testing-ws)
+- 13:00 - 14:00 -- [Database Testing](https://github.com/ali-7/db-testing-ws)
 
 - 14:00 - 14:30
   -- [Introduce Project](./project.md) + Intro to research topics for research afternoon
