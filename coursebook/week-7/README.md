@@ -22,7 +22,7 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
   — BREAK —
 
 
-- 13:00 - 15:00 -- [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop)
+- 13:00 - 15:00 -- [workshop on SQL commands and psql](https://github.com/ali-7/postgres-workshop)
 
 - 15:00 - 17:00
   -- Q&A/Workshop
