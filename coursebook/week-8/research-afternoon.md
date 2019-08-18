@@ -10,10 +10,11 @@
 + Draw flow diagrams to show the steps involved in each process
 + What are the advantages and disadvantages of each?
 
-### Web storage
-+ What are local storage and session storage and what is the difference between the two?
-+ Why would you use cookies vs local/session storage?
-+ Demo a simple usage of localStorage and sessionStorage
+### Session-management in Express
++ What are sessions?
++ What are the different ways of managing sessions in express?
++ Create a minimal example of how to set up a session (FYI: pseudo code is
+  fine)
 
 ### Attacks
 + What are the following types of attack?
