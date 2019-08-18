@@ -42,7 +42,7 @@
 
 ### Day 3
 
-- 09:00 - 10:00 -- TDB
+- 09:00 - 10:00 -- [server-side-validation](https://github.com/shahenazmonia/server-side-validation)
 
 - 10:00 - 12:00 <br>
   Projects
