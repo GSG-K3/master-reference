@@ -1,28 +1,31 @@
 ## Project
 ### Task
 
-You are free to create any kind of site that you like, so get creative!
+- You are free to create **any kind of site that you like** (with authentication!)
 
-Make sure you're creating your site from a user-centred design perspective, by starting your planning phase with user stories. You always want to be building the most important features first.
+- You may **continue your project from last week** if you agree as a team to do so.
 
-The only limits are that your project must fulfill the requirements below.
+- Create your site from a **user-centred design perspective**, by starting your planning phase with user stories.
+  - i.e. "As a user I want to ______, so that ______"
+
+The aim of the project is to fulfill the requirements below!
 
 ### Requirements
-+ [ ] Login form with 2 fields - username and password
-+ [ ] Users only have to log in once (i.e. implement a cookie-based session on login)
-+ [ ] Username is visible on each page of the site after logging in
-+ [ ] Any user-submitted content should be labelled with the authors username
-+ [ ] There should be protected routes and unprotected routes that depend on the user having a cookie or not (or what level of access they have).
-+ [ ] Website content should be stored in a database
-+ [ ] Include thorough tests on the back-end, testing pure functions and testing routes using Supertest. If you make external API calls, use Nock to mock the response for your tests.
-+ [ ] Test front-end logic, we don't expect tests on the DOM.
++ Use express and handlebars
++ Registration form with at least 2 fields - (e.g. username and password)
++ Client-side _and_ server-side validation on register form, including error handling that provides feedback to users
++ Login form
++ Users only have to log in once (i.e. implement a cookie-based session on login)
++ There should be protected routes and unprotected routes.
++ Any user-submitted content should be labelled with the authors username
++ Website content should be stored in a database -PostgreSQL-
++ Username is visible on all (or some) pages of the site after logging in
++ Test your routes
 
-#### Possible stretch goals
-+ [ ] Client-side _and_ server-side validation on login form, including error handling that provides feedback to users
-+ [ ] Add roles and permissions - Have an "admin" level user (role) who can edit and delete all content :scream: (permissions)
-+ [ ] Add comment functionality to content
-+ [ ] Add like functionality to content
-+ [ ] Allow users to delete the content that they have submitted
+### Hints
++ Plan everything on paper or a whiteboard! for example...
+  - db tables
+  - server routes
 
-#### Examples
-You could use auth to make a game, a todo app, a [twitter clone](http://canaryapp.herokuapp.com/) :heart: or whatever.
+### Examples
+You could use auth to make a game, a todo app, a twitter clone or whatever. :smile:
