@@ -12,7 +12,7 @@
 
 - 09:15 - 10:00 - [Presentation](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p1) on password management 
   
-- 10:00 - 12:00 - Workshop on [password management](https://github.com/foundersandcoders/ws-password-management)
+- 10:00 - 12:00 - Workshop on [password management](https://github.com/ali-7/ws-password-management)
 
 — BREAK —
 
