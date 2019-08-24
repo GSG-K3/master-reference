@@ -16,7 +16,7 @@
 
 — BREAK —
 
-- 13:00 - 15:00 -- Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies)
+- 13:00 - 15:00 -- Workshop on [cookies](https://github.com/ali-7/cookies-ws)
 
 - 15:00 - 17:00
   -- Q&A/Workshop
