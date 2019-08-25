@@ -23,7 +23,7 @@
 
 ### Day 2
 
-- 09:00 - 12:00 -- Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
+- 09:00 - 12:00 -- Workshop on [stateless session management](https://github.com/ali-7/jwt-ws)
 
 — BREAK —
 
