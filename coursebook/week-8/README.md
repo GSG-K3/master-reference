@@ -41,7 +41,7 @@
 
 ### Day 3
 
-- 09:00 - 10:00 -- [server-side-validation](https://github.com/shahenazmonia/server-side-validation)
+- 09:00 - 10:00 -- [server-side-validation](https://github.com/AbdallahAmmar96/server-side-validation)
 
 - 10:00 - 12:00 <br>
   Projects
