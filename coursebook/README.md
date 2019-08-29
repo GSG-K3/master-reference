@@ -15,6 +15,7 @@ The first eight weeks will provide you with the necessary building blocks for cr
 * [Week 6](week-6/README.md) - Handlebars
 * [Week 7](week-7/README.md) - PostgreSQL
 * [Week 8](week-8/README.md) - Authentication
+* [Week 9](week-9/README.md) - Reading Week
 
 The second half of the curriculum is focused on longer projects and introduces you to client interaction:
 + [Weeks 10-12](./weeks-10-12) - self-selected project
