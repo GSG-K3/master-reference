@@ -16,4 +16,5 @@ The first eight weeks will provide you with the necessary building blocks for cr
 * [Week 7](week-7/README.md) - PostgreSQL
 * [Week 8](week-8/README.md) - Authentication
 * [Week 9](week-9/README.md) - Reading Week
+* [Week 10](https://github.com/ali-7/react-week) - React Week
 
