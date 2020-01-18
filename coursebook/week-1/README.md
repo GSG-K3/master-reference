@@ -9,7 +9,7 @@
 
 ## Day 1
 
-- 09:00 - 12:00  
+- 08:30 - 12:30  
   - Welcome talk
   - Name game
   - Go through 16 week [schedule](https://github.com/ca-g7/master-reference/tree/master/coursebook)
@@ -19,28 +19,23 @@
 
 — BREAK —
 
-- 13:00 - 14:00 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md)
-- 14:00 - 15:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
-- 15.00 - 16.00 — [Github Scavenger Hunt - master reference](../general/github-scavenger-hunt.md)
-- 16:00 - 17:00 — User Manuals
+- 13:00 - 04:30 [Unix/Terminal Self-learning](https://www.rithmschool.com/courses/terminal)
 
 ## Day 2
 
-- 09:00 - 10:00 — Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge)
-- 10:00 - 12:00 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
+- 08:30 - 09:30 — Codewars Challenge (TBD)
+- 09:00 - 11:00 — [JS Basics - Arrays & Objects](TBD)
+- 11:00 - 12:00 — [CSS Dice Challenge](https://github.com/smarthutza/flexbox-workshop)
+- 12:00 - 12:30 — Rand Talk
 
 — BREAK —
-
-- 13:00 - 13:30 — Introduce [Project](./project.md)
-- 13:30 - 13:45 — [Research and Presentation Guidance](../general/research-presentation-guidance.md)
-- 13:45 - 14:00 — Introduce [Research topics](./research-afternoon.md)
-- 14:00 - 16:00 — Research / TBC
-- 16:00 - 17:00 — Research presentations
+- 13:30 - 14:30 — Introduce [Project](./project.md)
+- 14:30 - 16:30 — [Git Workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 
 
 ## Day 3
 
-- 09:00 - 10:00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge)
+- 09:00 - 10:00 — [Morning Challenge - Accessibility](https://github.com/foundersandcoders/accessibility-challenge)
 - 10:00 - 12:00 — Projects
 
 — BREAK —
@@ -48,7 +43,7 @@
 - 13:00 - 17:00 — Projects
 
 ## Day 4
-
+- 08:30 - 9:30 - Codewars Challenge (TBD)
 - 09:00 - 12:00 — Projects
 
 — BREAK —
