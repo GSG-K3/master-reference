@@ -23,14 +23,15 @@
 
 ## Day 2
 
-- 08:30 - 09:30 — Codewars Challenge (TBD)
-- 09:00 - 11:00 — [JS Basics - Arrays & Objects](TBD)
-- 11:00 - 12:00 — [CSS Dice Challenge](https://github.com/smarthutza/flexbox-workshop)
-- 12:00 - 12:30 — Rand Talk
+- 08:30 - 09:30 — [Codewars Challenge](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/javascript)
+- 09:00 - 11:00 — [Git Workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 
-— BREAK —
+- 11:00 - 12:00 — [CSS Dice Challenge](https://github.com/smarthutza/flexbox-workshop)
+- 12:00 - 12:30 — English Test
+
+— BREAK — 
 - 13:30 - 14:30 — Introduce [Project](./project.md)
-- 14:30 - 16:30 — [Git Workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
+- 14:30 - 16:30 — [JS Basics - Arrays & Objects](https://www.rithmschool.com/courses/javascript)
 
 
 ## Day 3
