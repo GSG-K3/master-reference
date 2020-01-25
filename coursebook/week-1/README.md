@@ -62,4 +62,4 @@
 
 - 13:00-15:00 — [Cohort Stop Go Continue (retrospective) + Team retrospective](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
 
-- 15:00-17:00 — External Workshop
+- 15:00-17:00 —[CSS Dice Challenge](https://github.com/smarthutza/flexbox-workshop)
