@@ -1,0 +1,24 @@
+body {
+  background-color: #aaa;
+}
+
+button {
+  border: 2px solid #000;
+  width: 80px;
+  height: 30px;
+  border-radius: 3px;
+}
+
+.buttons__red-button {
+  background-color: red;
+  color: #fff;
+}
+
+.buttons__blue-button {
+  background-color: blue;
+  color: #fff;
+}
+
+.buttons__yellow-button {
+  background-color: yellow;
+}
