@@ -65,6 +65,6 @@
 
 — BREAK —
 
-- 13:00 - 15:00 — Cohort Stop Go Continue (retrospective) + Team retrospective
+- 13:00 - 15:00 — [Intro to linter](https://github.com/GSG-K3/master-reference/blob/master/coursebook/week-4/linter.md)
 
 - 15:00 - 17:00 — External Workshop
