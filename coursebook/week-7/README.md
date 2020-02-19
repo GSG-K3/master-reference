@@ -12,7 +12,7 @@
 ### Day 1
 
 - 09:00 - 10:00 
-  -- whiteboard walkthrough with introduction to the topic of relational databases and SQL
+  -- [Introduction to Database](https://github.com/foundersandcoders/intro-to-databases)
 
 - 10:00 - 12:00 
   -- [installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
@@ -42,10 +42,8 @@ Then go to [`sql-commands-intro` workshop](https://github.com/ali-7/sql-commands
   -- [Introduce Project](./project.md) + Intro to research topics for research afternoon
 
 - 14:30 - 16:00
-  -- [Research Afternoon](./research-afternoon.md)
-
-- 16:00 - 17:00
-  -- Review and Present research topics
+  -- [Introduction to TDD in Node Server](https://github.com/foundersandcoders/ws-tdd-node-server)
+  
 
 ### Day 3
 
@@ -79,4 +77,4 @@ Then go to [`sql-commands-intro` workshop](https://github.com/ali-7/sql-commands
 
 - 13:00 - 15:00 — Cohort Stop Go Continue (retrospective) + Team retrospective
 
-- 15:00 - 17:00 — External Workshop
+-- 15:00 - 16:30 - [Continuous Integration](https://github.com/GSG-G8/master-reference/blob/master/coursebook/week-5/CI.md)
