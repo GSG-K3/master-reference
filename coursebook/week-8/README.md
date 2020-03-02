@@ -34,8 +34,7 @@
   -- [Promises Challenge](https://github.com/GSG-G8/mc-promise-me-this)
 
 - 15:00 - 16:30
-  --
--- [Integration Testing](https://github.com/ali-7/express-and-testing-workshop)
+  -- [Integration Testing](https://github.com/ali-7/express-and-testing-workshop)
 
 
 ### Day 3
