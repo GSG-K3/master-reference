@@ -23,21 +23,20 @@
 
 ### Day 2
 
-- 09:00 - 12:00 -- Workshop on [stateless session management](https://github.com/ali-7/jwt-ws)
+- 08:30 - 11:30 -- Workshop on [stateless session management](https://github.com/ali-7/jwt-ws)
 
 — BREAK —
 
-- 13:00 - 13:30
+- 12:00 - 13:00
   -- [Introduce Project](./project.md)
 
-- 13:30 - 13:45
-  -- Intro to research topics for research afternoon
+- 13:30 - 15:00
+  -- [Promises Challenge](https://github.com/GSG-G8/mc-promise-me-this)
 
-- 13:45 - 16:00
-  -- [Research Afternoon](./research-afternoon.md)
+- 15:00 - 16:30
+  --
+-- [Integration Testing](https://github.com/ali-7/express-and-testing-workshop)
 
-- 16:00 - 17:00
-  -- Review and Present research topics
 
 ### Day 3
 
